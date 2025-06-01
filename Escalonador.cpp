@@ -97,6 +97,7 @@ void mostrarEstatisticas(pthread_t threads[]) {
         cout << ", Tempo de espera = ";
         if (espera == -1) cout << "não finalizado";
         else cout << espera;
+        cout << ", Tempo da CPU = " << tempo_execucao_total;
         cout << ", Trocas de contexto = " << p.trocas_contexto << "\n";
     }
 
