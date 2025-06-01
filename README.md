@@ -92,14 +92,4 @@ Processo[1]: Turnaround = 7, Chegada = 0, Inicio Execucao: 0, Fim Execucao: 7, T
 
 ---
 
-## Critérios de Avaliação
-
-- Simulação de núcleos e escalonador funcional
-- Gerenciamento de bloqueios e fila de I/O
-- Inserção dinâmica de processos
-- Relatório com análise e métricas
-- Execução e apresentação coerente
-
----
-
 **Desenvolvido para fins acadêmicos.**
